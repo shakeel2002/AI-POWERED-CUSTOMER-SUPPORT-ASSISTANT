@@ -1,0 +1,15 @@
+name: ai_customer_support_frontend
+description: Minimal Flutter app demonstrating dynamic UI rendering from backend responses.
+version: 0.1.0
+publish_to: "none"
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
