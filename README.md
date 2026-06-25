@@ -373,7 +373,9 @@ curl -X POST http://localhost:8000/chat \
 - Flutter dynamically renders `HotelWidget` with listings
 - Same flow for flights, tracking, refunds, complaints, escalations
 
-_[Add screenshots of the Flutter app in action here]_
+Below is the project demo screenshot showing the app in action with the customer support chatbot flow on the mobile UI.
+
+![Project demo screenshot](project demo.png)
 
 ---
 
