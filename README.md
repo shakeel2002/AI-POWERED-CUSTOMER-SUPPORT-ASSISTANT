@@ -195,7 +195,7 @@ static const String baseUrl = 'http://192.168.1.10:8000';
 
 ---
 
-## 📡 API Reference
+## API Reference
 
 ### **POST /chat**
 
@@ -252,7 +252,7 @@ static const String baseUrl = 'http://192.168.1.10:8000';
 
 ---
 
-## 🔧 Testing with cURL / Postman
+## Testing with cURL / Postman
 
 ### **cURL Example:**
 
@@ -282,7 +282,7 @@ curl -X POST http://localhost:8000/chat \
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -329,7 +329,7 @@ curl -X POST http://localhost:8000/chat \
 
 ---
 
-## 🔌 Running Fully Offline
+## Running Fully Offline
 
 **After the initial setup, here's how to run completely offline:**
 
@@ -360,11 +360,11 @@ curl -X POST http://localhost:8000/chat \
    flutter run
    ```
 
-✅ **Everything runs offline after model download!**
+**Everything runs offline after model download!**
 
 ---
 
-## 🎨 Screenshots & Demo
+## Screenshots & Demo
 
 ### Flutter App Chat Interface
 
@@ -418,7 +418,7 @@ Replace mock data in tools:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 | Issue                                | Solution                                                                      |
 | ------------------------------------ | ----------------------------------------------------------------------------- |
@@ -430,7 +430,7 @@ Replace mock data in tools:
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ### Backend
 
@@ -457,7 +457,7 @@ Ollama + qwen2.5:1.5b model (~1GB)
 
 ---
 
-## 🚀 Production Deployment (Future)
+## Production Deployment (Future)
 
 - **Backend**: Deploy FastAPI to Render, Railway, or AWS Lambda
 - **Ollama**: Use managed inference API (Replicate, HuggingFace, or self-hosted GPU)
@@ -467,13 +467,13 @@ Ollama + qwen2.5:1.5b model (~1GB)
 
 ---
 
-## 📝 License
+## License
 
 MIT License - Feel free to use, modify, and distribute.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Please:
 
@@ -483,12 +483,12 @@ Contributions welcome! Please:
 
 ---
 
-## 📧 Support
+## Support
 
 For issues, questions, or feature requests, please open a GitHub issue or reach out to the maintainers.
 
 ---
 
-**Happy Building! 🚀**
+**Happy Building! **
 
-Made with ❤️ for intelligent customer support.
+Made with for intelligent customer support.
